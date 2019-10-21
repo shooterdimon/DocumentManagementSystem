@@ -14,4 +14,4 @@
    4. Система виконує занесення данних до БД та присвоює атрибути для вмісту документа.
    5. Система повідомляє про успішне занесення документу. 
 
-![](https://github.com/shooterdimon/DocumentManagementSystem/blob/master/UseCases/AddingFiles.png)
+![](https://github.com/shooterdimon/DocumentManagementSystem/blob/master/UseCases/AddingFile.png)
