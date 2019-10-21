@@ -16,4 +16,4 @@
 
 Виключні ситуації: користувач натискає "Відміна", форма реєстрації закривається.
 
-
+![](https://github.com/shooterdimon/DocumentManagementSystem/blob/master/UseCases/regestration.png)
