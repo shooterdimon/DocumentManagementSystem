@@ -16,4 +16,4 @@
 
 Виключні ситуації: Користувач вводить некоректний запит або система не знаходить співпадінь.
 
-![](https://github.com/shooterdimon/DocumentManagementSystem/blob/master/UseCases/Search.png)
+![](https://github.com/shooterdimon/DocumentManagementSystem/blob/master/UseCases/Research.png)
