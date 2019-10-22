@@ -14,4 +14,4 @@
    3. Система реагує на дії користувача.
    4. Користувач закінчує роботу з документом.
 
-![](https://github.com/shooterdimon/DocumentManagementSystem/blob/master/UseCases/Interaction.png)
+![](https://github.com/shooterdimon/DocumentManagementSystem/blob/master/UseCases/Diagrams/Interaction.png)
