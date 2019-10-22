@@ -15,3 +15,5 @@
    4. Адміністратор натискає кнопку "Підтвердити".
    5. Система виконує занесення данних до БД та присвоює атрибути для вмісту документа.
    6. Система повідомляє про успішне оновлення документу. 
+
+![](https://github.com/shooterdimon/DocumentManagementSystem/blob/master/UseCases/Diagrams/UpdateFile.png)
