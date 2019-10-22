@@ -17,4 +17,4 @@
    
 Виключні ситуації: адміністратор вирішив, що даному користувачу не потрібно надавати доступ.
 
-![](https://github.com/shooterdimon/DocumentManagementSystem/blob/master/UseCases/Diagrams/Confirm.png)
+![](https://github.com/shooterdimon/DocumentManagementSystem/blob/master/UseCases/Diagrams/ConfirmUser.png)
