@@ -15,3 +15,4 @@
    4. Адміністратор редагує права обраного користувача та натискає кнопку "Підтвердити"
    5. Система заносить нові значення прав в базу. 
    
+![](https://github.com/shooterdimon/DocumentManagementSystem/blob/master/UseCases/Diagrams/EditingRights.png)
