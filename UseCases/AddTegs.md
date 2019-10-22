@@ -14,3 +14,4 @@
    3. Користувач додає теги та натискає кнопку "Додати".
    4. Система вносить нові теги в БД.
    
+![](https://github.com/shooterdimon/DocumentManagementSystem/blob/master/UseCases/Diagrams/AddingTags.png)
