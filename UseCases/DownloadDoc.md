@@ -16,3 +16,5 @@
    5. Система завантажує документ. 
    
 Виключні ситуації: відсутність з'єднання з мережею
+
+![](https://github.com/shooterdimon/DocumentManagementSystem/blob/master/UseCases/Diagrams/DownloadDoc.png)
