@@ -17,4 +17,4 @@
    6. Система видаляє документ з бази.
    7. Система повідомляє про успішне видалення документу. 
 
-![]()
+![](https://github.com/shooterdimon/DocumentManagementSystem/blob/master/UseCases/Diagrams/RemoveFile.png)
