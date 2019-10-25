@@ -16,3 +16,4 @@
    
 Виключні ситуації: невірний логін або пароль
  
+![](https://github.com/shooterdimon/DocumentManagementSystem/blob/master/UseCases/Diagrams/Authentication.png)
