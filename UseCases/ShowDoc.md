@@ -14,4 +14,4 @@
    3. Користувач переглядає документ та натискає кнопку "Закрити".
    4. Система закриває інтерфейс перегляду.
 
-[](https://github.com/shooterdimon/DocumentManagementSystem/blob/master/UseCases/Diagrams/ShowDoc.png)
+![](https://github.com/shooterdimon/DocumentManagementSystem/blob/master/UseCases/Diagrams/ShowDoc.png)
